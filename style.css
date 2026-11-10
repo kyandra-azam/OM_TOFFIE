@@ -1,0 +1,12 @@
+/* Custom Font */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Pattern buat placeholder Google Maps */
+.bg-pattern {
+    background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+    background-size: 20px 20px;
+}
+
+/* Lu bisa tambahin animasi atau custom style lain di sini nanti */
